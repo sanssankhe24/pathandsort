@@ -1,4 +1,4 @@
-# pathandsort
+# Path Finding and Sorting Visualizer
 The goal of this project is to create a web based e-learning tool, which can  be used to visualize shortest path and sorting algorithms. Students as well as experienced people can sharpen their skills using this  tool.
 
 # I.	INTRODUCTION
